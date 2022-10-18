@@ -1,2 +1,2 @@
-#### Capstone-4-Level-1
-First time using OOP principles
+### Basic OOP python Task
+This project was used to practice very basic OOP principles in python.
